@@ -121,4 +121,4 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the [Special License](LICENSE).
+This project is licensed under the [Special License](LICENSE.md).
